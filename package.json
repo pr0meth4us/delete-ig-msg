@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "puppeteer": "^20.8.2",
+    "puppeteer-autoscroll-down": "^1.1.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
